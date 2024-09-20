@@ -23,7 +23,7 @@ add_executable(lab1_hello mpi_hello.c)
 
 target_link_libraries(lab1_hello PRIVATE MPI::MPI_C)
 ```
-2) Команда для запуска параллельных процессов с помощью PowerShell (в данном случае так запускаются 10 процессов):
+2) Команда, задающая количество параллельных процессов при запуске проекта ```  lab1_hello  ``` с помощью PowerShell (в данном случае так запускаются 10 процессов):
 ```
 mpiexec -n 10 ./cmake-build-debug/lab1_hello
 ```  
