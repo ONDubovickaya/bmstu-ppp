@@ -10,11 +10,11 @@ username@core:~/labs/lab2-ping$ mpicc mpi_ping.c -o my_ping
 username@core:~/labs/lab2-ping$ ls -l
 username@core:~/labs/lab2-ping$ ./my_ping
 username@core:~/labs/lab2-ping$ mpirun -np 3 my_ping
-username@core:~/labs/lab1-hello$ touch job1.sh
-username@core:~/labs/lab1-hello$ ls -l
-username@core:~/labs/lab1-hello$ mcedit job1.sh
-username@core:~/labs/lab1-hello$ cat job1.sh
-username@core:~/labs/lab1-hello$ ls -l
-username@core:~/labs/lab1-hello$ sbatch job1.sh
-username@core:~/labs/lab1-hello$ ls -l
-username@core:~/labs/lab1-hello$ cat slurm-15609.out
+username@core:~/labs/lab2-ping$ touch job1.sh
+username@core:~/labs/lab2-ping$ ls -l
+username@core:~/labs/lab2-ping$ mcedit job1.sh
+username@core:~/labs/lab2-ping$ cat job1.sh
+username@core:~/labs/lab2-ping$ ls -l
+username@core:~/labs/lab2-ping$ sbatch job1.sh
+username@core:~/labs/lab2-ping$ ls -l
+username@core:~/labs/lab2-ping$ cat slurm-15609.out
