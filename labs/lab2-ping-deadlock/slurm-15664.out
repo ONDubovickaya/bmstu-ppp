@@ -1,0 +1,102 @@
+Hello from processor node-6[6] 5 of 10
+Hello from processor node-1[6] 0 of 10
+Hello from processor node-3[6] 2 of 10
+Hello from processor node-5[6] 4 of 10
+Hello from processor node-8[6] 7 of 10
+Hello from processor node-10[7] 9 of 10
+Hello from processor node-2[6] 1 of 10
+Hello from processor node-4[6] 3 of 10
+Hello from processor node-7[6] 6 of 10
+Hello from processor node-9[6] 8 of 10
+[2] Time = 0.013636  Data =       800 KByte
+[2] Bandwith[0] = 57.291635 MByte/sek
+[ 3]    10       11       12
+[ 3]     5       15       25
+[ 5]    10       11       12
+[ 5]     5       15       25
+[4] Time = 0.012149  Data =       800 KByte
+[4] Bandwith[0] = 64.304084 MByte/sek
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.013693  Data =       800 KByte
+[8] Bandwith[0] = 57.053875 MByte/sek
+[ 7]    10       11       12
+[ 7]     5       15       25
+[6] Time = 0.014222  Data =       800 KByte
+[6] Bandwith[0] = 54.933256 MByte/sek
+[2] Time = 0.007753  Data =      1600 KByte
+[2] Bandwith[1] = 201.537773 MByte/sek
+[ 3]    10       11       12
+[ 3]     5       15       25
+[0] Time = 0.010923  Data =       800 KByte
+[0] Bandwith[0] = 71.526449 MByte/sek
+[ 1]    10       11       12
+[ 1]     5       15       25
+[ 5]    10       11       12
+[ 5]     5       15       25
+[4] Time = 0.010901  Data =      1600 KByte
+[4] Bandwith[1] = 143.332647 MByte/sek
+[0] Time = 0.006246  Data =      1600 KByte
+[0] Bandwith[1] = 250.147167 MByte/sek
+[ 1]    10       11       12
+[ 1]     5       15       25
+[ 3]    10       11       12
+[ 3]     5       15       25
+[2] Time = 0.007479  Data =      3200 KByte
+[2] Bandwith[2] = 417.825662 MByte/sek
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.014121  Data =      1600 KByte
+[8] Bandwith[1] = 110.650687 MByte/sek
+[0] Time = 0.005352  Data =      3200 KByte
+[0] Bandwith[2] = 583.857752 MByte/sek
+[ 1]    10       11       12
+[ 1]     5       15       25
+[ 7]    10       11       12
+[6] Time = 0.014481  Data =      1600 KByte
+[6] Bandwith[1] = 107.900960 MByte/sek
+[ 7]     5       15       25
+[ 5]    10       11       12
+[ 3]    10       11       12
+[2] Time = 0.010272  Data =      6400 KByte
+[2] Bandwith[3] = 608.440089 MByte/sek
+[ 3]     5       15       25
+[4] Time = 0.012887  Data =      3200 KByte
+[4] Bandwith[2] = 242.487206 MByte/sek
+[ 5]     5       15       25
+[0] Time = 0.008216  Data =      6400 KByte
+[0] Bandwith[3] = 760.753415 MByte/sek
+[ 1]    10       11       12
+[ 1]     5       15       25
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.018536  Data =      3200 KByte
+[8] Bandwith[2] = 168.587222 MByte/sek
+[ 7]    10       11       12
+[6] Time = 0.018283  Data =      3200 KByte
+[6] Bandwith[2] = 170.927044 MByte/sek
+[ 7]     5       15       25
+[ 5]    10       11       12
+[ 5]     5       15       25
+[4] Time = 0.017057  Data =      6400 KByte
+[4] Bandwith[3] = 366.408942 MByte/sek
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.022167  Data =      6400 KByte
+[8] Bandwith[3] = 281.948957 MByte/sek
+[ 7]    10       11       12
+[6] Time = 0.022304  Data =      6400 KByte
+[6] Bandwith[3] = 280.214950 MByte/sek
+[ 7]     5       15       25
+slurmstepd: error: *** JOB 15664 ON node-1 CANCELLED AT 2024-09-25T01:42:40 DUE TO TIME LIMIT ***
+--------------------------------------------------------------------------
+ORTE has lost communication with a remote daemon.
+
+  HNP daemon   : [[47730,0],0] on node node-1
+  Remote daemon: [[47730,0],3] on node node-4
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+--------------------------------------------------------------------------
