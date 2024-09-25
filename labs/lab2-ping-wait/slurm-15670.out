@@ -1,0 +1,230 @@
+Hello from processor node-1[6] 0 of 10
+Hello from processor node-7[6] 6 of 10
+Hello from processor node-8[6] 7 of 10
+Hello from processor node-2[6] 1 of 10
+Hello from processor node-10[7] 9 of 10
+Hello from processor node-6[6] 5 of 10
+Hello from processor node-5[6] 4 of 10
+Hello from processor node-4[6] 3 of 10
+Hello from processor node-3[6] 2 of 10
+Hello from processor node-9[6] 8 of 10
+[ 3]    10       11       12
+[ 7]    10       11       12
+[ 3]     5       15       25
+[2] Time = 0.017986  Data =       800 KByte
+[2] Bandwith[0] = 43.436958 MByte/sek
+[ 7]     5       15       25
+[6] Time = 0.018975  Data =       800 KByte
+[6] Bandwith[0] = 41.172797 MByte/sek
+[ 5]    10       11       12
+[ 5]     5       15       25
+[4] Time = 0.021002  Data =       800 KByte
+[4] Bandwith[0] = 37.198055 MByte/sek
+[0] Time = 0.018578  Data =       800 KByte
+[0] Bandwith[0] = 42.052656 MByte/sek
+[ 1]    10       11       12
+[ 1]     5       15       25
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.028959  Data =       800 KByte
+[8] Bandwith[0] = 26.977403 MByte/sek
+[ 3]    10       11       12
+[ 3]     5       15       25
+[2] Time = 0.012165  Data =      1600 KByte
+[2] Bandwith[1] = 128.441557 MByte/sek
+[ 7]    10       11       12
+[ 7]     5       15       25
+[6] Time = 0.018912  Data =      1600 KByte
+[6] Bandwith[1] = 82.619322 MByte/sek
+[0] Time = 0.017462  Data =      1600 KByte
+[0] Bandwith[1] = 89.479435 MByte/sek
+[ 1]    10       11       12
+[ 1]     5       15       25
+[ 5]    10       11       12
+[4] Time = 0.020667  Data =      1600 KByte
+[4] Bandwith[1] = 75.604526 MByte/sek
+[ 5]     5       15       25
+[ 3]    10       11       12
+[ 3]     5       15       25
+[2] Time = 0.013699  Data =      3200 KByte
+[2] Bandwith[2] = 228.114677 MByte/sek
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.024173  Data =      1600 KByte
+[8] Bandwith[1] = 64.639094 MByte/sek
+[ 7]    10       11       12
+[ 7]     5       15       25
+[6] Time = 0.020563  Data =      3200 KByte
+[6] Bandwith[2] = 151.973690 MByte/sek
+[ 3]    10       11       12
+[ 3]     5       15       25
+[2] Time = 0.016335  Data =      6400 KByte
+[2] Bandwith[3] = 382.612867 MByte/sek
+[0] Time = 0.019244  Data =      3200 KByte
+[0] Bandwith[2] = 162.384058 MByte/sek
+[ 1]    10       11       12
+[ 1]     5       15       25
+[ 5]    10       11       12
+[ 5]     5       15       25
+[4] Time = 0.022240  Data =      3200 KByte
+[4] Bandwith[2] = 140.514309 MByte/sek
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.025666  Data =      3200 KByte
+[8] Bandwith[2] = 121.754241 MByte/sek
+[ 7]    10       11       12
+[ 7]     5       15       25
+[6] Time = 0.025126  Data =      6400 KByte
+[6] Bandwith[3] = 248.749288 MByte/sek
+[0] Time = 0.025272  Data =      6400 KByte
+[0] Bandwith[3] = 247.310322 MByte/sek
+[ 1]    10       11       12
+[ 1]     5       15       25
+[ 5]    10       11       12
+[ 5]     5       15       25
+[4] Time = 0.026217  Data =      6400 KByte
+[4] Bandwith[3] = 238.397390 MByte/sek
+[ 3]    10       11       12
+[ 3]     5       15       25
+[2] Time = 0.030540  Data =     12800 KByte
+[2] Bandwith[4] = 409.294322 MByte/sek
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.035095  Data =      6400 KByte
+[8] Bandwith[3] = 178.089523 MByte/sek
+[ 3]    10       11       12
+[2] Time = 0.038099  Data =     25600 KByte
+[2] Bandwith[5] = 656.188594 MByte/sek
+[ 3]     5       15       25
+[ 7]    10       11       12
+[6] Time = 0.052291  Data =     12800 KByte
+[6] Bandwith[4] = 239.048102 MByte/sek
+[ 7]     5       15       25
+[ 1]    10       11       12
+[0] Time = 0.051222  Data =     12800 KByte
+[0] Bandwith[4] = 244.035180 MByte/sek
+[ 1]     5       15       25
+[ 5]    10       11       12
+[4] Time = 0.056549  Data =     12800 KByte
+[4] Bandwith[4] = 221.046049 MByte/sek
+[ 5]     5       15       25
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.072230  Data =     12800 KByte
+[8] Bandwith[4] = 173.057584 MByte/sek
+[ 3]    10       11       12
+[2] Time = 0.063491  Data =     51200 KByte
+[2] Bandwith[6] = 787.507336 MByte/sek
+[ 3]     5       15       25
+[ 1]    10       11       12
+[0] Time = 0.076538  Data =     25600 KByte
+[0] Bandwith[5] = 326.633151 MByte/sek
+[ 1]     5       15       25
+[ 5]    10       11       12
+[4] Time = 0.079622  Data =     25600 KByte
+[4] Bandwith[5] = 313.981703 MByte/sek
+[ 5]     5       15       25
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 0.109430  Data =     25600 KByte
+[8] Bandwith[5] = 228.456280 MByte/sek
+[ 7]    10       11       12
+[6] Time = 0.185038  Data =     25600 KByte
+[6] Bandwith[5] = 135.107715 MByte/sek
+[ 7]     5       15       25
+[ 5]    10       11       12
+[ 7]    10       11       12
+[6] Time = 0.155926  Data =     51200 KByte
+[6] Bandwith[6] = 320.665778 MByte/sek
+[4] Time = 0.249590  Data =     51200 KByte
+[4] Bandwith[6] = 200.328932 MByte/sek
+[ 7]     5       15       25
+[ 5]     5       15       25
+[ 5]    10       11       12
+[4] Time = 0.404542  Data =    102400 KByte
+[4] Bandwith[7] = 247.193015 MByte/sek
+[ 5]     5       15       25
+[ 7]    10       11       12
+[6] Time = 0.700357  Data =    102400 KByte
+[6] Bandwith[7] = 142.784343 MByte/sek
+[ 7]     5       15       25
+[ 3]    10       11       12
+[2] Time = 1.093129  Data =    102400 KByte
+[2] Bandwith[7] = 91.480537 MByte/sek
+[ 3]     5       15       25
+[ 1]    10       11       12
+[0] Time = 1.085225  Data =     51200 KByte
+[0] Bandwith[6] = 46.073403 MByte/sek
+[ 1]     5       15       25
+[ 9]    10       11       12
+[ 9]     5       15       25
+[8] Time = 1.153347  Data =     51200 KByte
+[8] Bandwith[6] = 43.352075 MByte/sek
+[ 3]    10       11       12
+[2] Time = 0.196023  Data =    204800 KByte
+[2] Bandwith[8] = 1020.286749 MByte/sek
+[ 3]     5       15       25
+[ 1]    10       11       12
+[0] Time = 0.547469  Data =    102400 KByte
+[0] Bandwith[7] = 182.658581 MByte/sek
+[ 1]     5       15       25
+[ 3]    10       11       12
+[2] Time = 0.393578  Data =    409600 KByte
+[2] Bandwith[9] = 1016.317028 MByte/sek
+[ 3]     5       15       25
+[ 9]    10       11       12
+[8] Time = 0.726334  Data =    102400 KByte
+[8] Bandwith[7] = 137.677798 MByte/sek
+[ 9]     5       15       25
+[ 7]    10       11       12
+[6] Time = 1.285239  Data =    204800 KByte
+[6] Bandwith[8] = 155.613125 MByte/sek
+[ 7]     5       15       25
+[ 5]    10       11       12
+[ 5]     5       15       25
+[4] Time = 1.708476  Data =    204800 KByte
+[4] Bandwith[8] = 117.063399 MByte/sek
+[ 1]    10       11       12
+[0] Time = 1.302874  Data =    204800 KByte
+[0] Bandwith[8] = 153.506804 MByte/sek
+[ 1]     5       15       25
+[ 3]    10       11       12
+[2] Time = 1.784933  Data =    819200 KByte
+[2] Bandwith[10] = 448.196014 MByte/sek
+[ 3]     5       15       25
+[ 1]    10       11       12
+[0] Time = 0.973246  Data =    409600 KByte
+[0] Bandwith[9] = 410.995617 MByte/sek
+[ 1]     5       15       25
+[ 9]    10       11       12
+[8] Time = 1.962584  Data =    204800 KByte
+[8] Bandwith[8] = 101.906460 MByte/sek
+[ 9]     5       15       25
+[ 7]    10       11       12
+[6] Time = 2.046889  Data =    409600 KByte
+[6] Bandwith[9] = 195.418520 MByte/sek
+[ 7]     5       15       25
+[ 5]    10       11       12
+[4] Time = 2.051716  Data =    409600 KByte
+[4] Bandwith[9] = 194.958734 MByte/sek
+[ 5]     5       15       25
+[ 1]    10       11       12
+[ 1]     5       15       25
+[0] Time = 3.630595  Data =    819200 KByte
+[0] Bandwith[10] = 220.349577 MByte/sek
+[ 9]    10       11       12
+[8] Time = 3.895339  Data =    409600 KByte
+[8] Bandwith[9] = 102.686838 MByte/sek
+[ 9]     5       15       25
+[ 7]    10       11       12
+[6] Time = 4.029683  Data =    819200 KByte
+[6] Bandwith[10] = 198.526802 MByte/sek
+[ 7]     5       15       25
+[ 5]    10       11       12
+[ 5]     5       15       25
+[4] Time = 4.004391  Data =    819200 KByte
+[4] Bandwith[10] = 199.780681 MByte/sek
+[ 9]    10       11       12
+[8] Time = 7.880151  Data =    819200 KByte
+[8] Bandwith[10] = 101.520901 MByte/sek
+[ 9]     5       15       25
