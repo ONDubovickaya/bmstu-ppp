@@ -38,7 +38,7 @@ int main(int argc, char ** argv)
 
                 for ( i = 0; i < 100; i++ )
                 {
-                    MPI_Send( buf, sz, MPI_INT, myrank + 1, 10, MPI_COMM_WORLD );
+                    MPI_Ssend( buf, sz, MPI_INT, myrank + 1, 10, MPI_COMM_WORLD );
                     MPI_Recv( buf, sz + 100, MPI_INT, myrank + 1, 20, MPI_COMM_WORLD, &st );
                 }
 
