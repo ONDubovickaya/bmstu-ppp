@@ -1,0 +1,20 @@
+username@core:~$ cd labs
+username@core:~/labs$ ls
+username@core:~/labs$ mkdir lab3-collective
+username@core:~/labs$ cd lab3-collective
+username@core:~/labs/lab3-collective$ touch mpi_collective.c
+username@core:~/labs/lab3-collective$ ls
+username@core:~/labs/lab3-collective$ mcedit mpi_collective.c
+username@core:~/labs/lab3-collective$ cat mpi_collective.c
+username@core:~/labs/lab3-collective$ mpicc mpi_collective.c -o my_collective
+username@core:~/labs/lab3-collective$ ls -l
+username@core:~/labs/lab3-collective$ ./my_collective
+username@core:~/labs/lab3-collective$ mpirun -np 4 my_collective
+username@core:~/labs/lab3-collective$ touch job1.sh
+username@core:~/labs/lab3-collective$ ls -l
+username@core:~/labs/lab3-collective$ mcedit job1.sh
+username@core:~/labs/lab3-collective$ cat job1.sh
+username@core:~/labs/lab3-collective$ ls -l
+username@core:~/labs/lab3-collective$ sbatch job1.sh
+username@core:~/labs/lab3-collective$ ls -l
+username@core:~/labs/lab3-collective$ cat slurm-15717.out
